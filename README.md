@@ -6,7 +6,7 @@
 **Instructor:** Manuel Campagnolo
 
 ### Introduction:
-The project focuses on conducting an urban planning analysis using QGIS and Python scripting. The primary objective is to calculate the building-land ratio, a crucial metric in urban planning, for a designated area in the City of Ebelsbach, Germany. The project leverages the QGIS software along with Python scripts (`project.py` and `my_functions.py`) to automate various geospatial processes. To run the project correctly, please save the folders "input" and "output" as well as the scripts "project.py" and "my_functions.py" and "project_test.py" in a parent folder called "my_functions". 
+The project focuses on conducting an urban planning analysis using QGIS and Python scripting. The primary objective is to calculate the building-land ratio, a crucial metric in urban planning, for a designated area in the City of Ebelsbach, Germany. The project leverages the QGIS software along with Python scripts (`project.py` and `my_functions.py`) to automate various geospatial processes. To run the project correctly, please execute the script project.py in the Python Plugin in QGIS. 
 
 ### Project Components:
 - **Data Sources:**
